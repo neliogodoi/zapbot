@@ -1,0 +1,14 @@
+{
+  "name": "zapbot",
+  "version": "0.1.0",
+  "description": "Zapbot message pipeline in Node.js",
+  "private": true,
+  "type": "commonjs",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "selenium-webdriver": "^4.30.0"
+  }
+}
